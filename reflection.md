@@ -1,0 +1,8 @@
+**Reflection**:
+- In a file called `reflection.md`, write a few sentences or paragraphs of reflection explaining your development process, the difficulties you faced, and how you solved them.
+
+I think when it came to the project the actual html code and all of that was not the hard part, I struggled more with the submission part and sending my files to my linux account.
+I struggled with this because I had to set up my .json in order to have all my local files be able to transfer remotely. After this I also had some issues when it came to syncing 
+where some of my files would not sync so I had to manually keep setting up my html directory and sync all the folders one at a time. I solved these problems through the means of using ChatGPT to help me understand why things were not working correctly, as well as forums such as Stack Overflow. Finally another issue I had is since using ChatGPT, it was really hard not using CSS, this is because Chat really wants to use CSS and especially use it in line. As of now I have tried to use only HTML but I am unsure if I have some leftover CSS inline, I tried to use only depreciated for the colors and other things.
+
+As for the rest of the project, it was fun making a portfolio all about me and being able to customize it the way I want. Adding images and changing colors was not too difficult and I was able to expirement using basic HTML and hopefully soon use CSS in order to change this website. I know feel like I have a better understanding of what goes behind developing the web as well as how things are connected for example how we connected these files with our linux.
